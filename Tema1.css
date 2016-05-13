@@ -1,0 +1,29 @@
+body{
+  background-color: #fff;
+}
+input{
+  background-color: white;
+  border: 0;
+  border-bottom: 1px solid #ff5407;
+  box-shadow: 1;
+  width:180px;
+  height:35px;
+  font-size:15px;
+}
+.wrap{
+  padding: 120px;
+  font-size: 45px;
+  color: #888;
+  font-family: sans-serif;
+  margin: 0 auto;
+  text-align: center;
+}
+.login{
+  height: 30px;
+  width: 80px;
+  text-align: center;
+  border: 1px solid white;
+  background: red;
+  color: #fff;
+  margin: 0 auto;
+}
